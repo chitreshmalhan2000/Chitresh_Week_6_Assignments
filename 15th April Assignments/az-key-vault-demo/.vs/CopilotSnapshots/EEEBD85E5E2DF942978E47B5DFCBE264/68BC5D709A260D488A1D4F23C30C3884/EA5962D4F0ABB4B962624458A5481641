@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "az-key-vault-demo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_STORAGE_CONNECTION_STRING": ""
+      }
+    }
+  }
+}
