@@ -1,0 +1,53 @@
+﻿@model Itemmodel
+
+@{
+    ViewData["Title"] = "Delete Item";
+}
+
+<h2>Delete Item</h2>
+
+<h3>Are you sure you want to delete this item?</h3>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <h4>Item</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+        </dl>
+    </div>
+
+
+    @* <div class="form-group"> *@
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    @* </div> *@
+</form>
