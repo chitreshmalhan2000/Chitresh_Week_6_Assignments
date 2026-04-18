@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\migrations\\20260417063255_creatingtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\migrations\\20260417063255_creatingtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\models\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\models\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\models\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\models\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|c:\\users\\hp\\onedrive\\documents\\student inquiry assistance portal\\student inquiry assistance portal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD2D8AF-B296-3A5E-4A98-54D249A87B4F}|Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal.csproj|solutionrelative:student inquiry assistance portal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260417063255_creatingtables.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Migrations\\20260417063255_creatingtables.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Migrations\\20260417063255_creatingtables.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Migrations\\20260417063255_creatingtables.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Migrations\\20260417063255_creatingtables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:32:55.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Payment.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Models\\Payment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:10:40.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admission.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Admission.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Models\\Admission.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Admission.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Models\\Admission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:10:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\appsettings.json",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\appsettings.json",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T04:56:58.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Program.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Program.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:20:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Course.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:08:16.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:14:50.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enquiry.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Enquiry.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Models\\Enquiry.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Enquiry.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Models\\Enquiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:09:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\Student.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:08:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Models\\User.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:07:34.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Student Inquiry Assistance Portal\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Student Inquiry Assistance Portal\\Student Inquiry Assistance Portal\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Student Inquiry Assistance Portal\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T04:56:29.091Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
